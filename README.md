@@ -1,4 +1,4 @@
-# POMODORO WITH REACT
+# POMODORO WITH REACT TS
 
 ## Used tech's:
 
